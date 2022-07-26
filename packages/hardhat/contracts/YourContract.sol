@@ -9,7 +9,7 @@ contract YourContract {
 
   event SetPurpose(address sender, string purpose);
 
-  string public purpose = "Building STOPPABLE Apps!!!";
+  string public purpose = "Building unSTOPPABLE Apps!!!";
 
   constructor() payable {
     // what should we do on deploy?
